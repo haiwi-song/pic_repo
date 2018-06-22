@@ -1,5 +1,6 @@
 <h2>图床</h2>
-欢迎访问个人博客[https://blog.csdn.net/otengyue](https://blog.csdn.net/otengyue)
+
+欢迎访问个人博客 [https://blog.csdn.net/otengyue](https://blog.csdn.net/otengyue)
 
 ------------------------------------
 下面介绍如何获得图库中的图片外链地址：
