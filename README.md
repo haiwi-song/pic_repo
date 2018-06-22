@@ -1,5 +1,4 @@
-<h2>图床</h2>
-
+<h1>图床</h1>
 欢迎访问个人博客 [https://blog.csdn.net/otengyue](https://blog.csdn.net/otengyue)
 
 ------------------------------------
