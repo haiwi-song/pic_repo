@@ -21,7 +21,7 @@
 ![5.png](https://github.com/haiwi-song/pic_repo/raw/master/test/5.png)
 此时的 [https://github.com/haiwi-song/pic_repo/raw/master/test/1.png](https://github.com/haiwi-song/pic_repo/raw/master/test/1.png) 即可作为图片的markdow图片外链。
 
-# markdow图片外链格式
+# markdown图片外链格式
 ```
 格式：
 ![这里是图片描述](这里是图片链接)
