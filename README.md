@@ -1,10 +1,10 @@
 # pic_repo
----
 主要用于图床！<br />
 欢迎访问个人博客[https://blog.csdn.net/otengyue](https://blog.csdn.net/otengyue)
 
+------------------------------------
+下面介绍如何获得图库中的图片外链地址：
 # 图片上传方法
-## 文件夹创建
 1、创建文件夹
 ![1.png](https://github.com/haiwi-song/pic_repo/raw/master/test/1.png)
 2、点击“create new file”后，进入下面界面，在输入框内输入文件夹的名称。注：文件夹内必须包含文件才能创建成功，此时可以创建一个README.md文件
